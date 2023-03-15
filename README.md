@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+#Task:
+<!-- 1.инициаизировать react app (выбрать шаблон с typescript or reactquery) -->
+<!-- 2.react-router присоединяем ее достаточно -->
+<!-- 3.добавить 2 страницы(домашняя-создание нового пользователя-форма)+здесь же список пользователей и страница 2(редиктировать)при клике на пользователя попадаем на страницу редактирования пользовательских данных(переиспользуем этот же компонент-данные в инпутах для редактирования с кнопкой сохранить)Сделать без api -->
+<!-- @ts-ignore убираем ошибку тайпскрипт -->
+<!-- для маршрутизации используем только react-router -->
+<!-- 4. не использовать redux -->
+<!-- 5. Используя библиотеку react query подключить api смотреть видео для query typescript и react-router -->
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
