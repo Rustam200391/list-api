@@ -72,16 +72,15 @@ export const Form = () => {
                         })} placeholder='username' />
                         {errors.username?.type === 'required' && <p role="alert">Username name is required</p>}
 
-                        <input type="text" {...register("password", {
-                            required: "Password name is required"
-                        })} placeholder='password' />
-                        {errors.password?.type === 'required' && <p role="alert">Password name is required</p>}
+                        <input type="text" {...register("surname", {
+                            required: 'surname name is required'
+                        })} placeholder='surname' />
+                        {errors.surname?.type === 'required' && <p role="alert">Surname name is required</p>}
 
-                        <input type="text" {...register("confirmPassword", {
-                            required: "Confirm password name is required"
-                        })} placeholder='confirm password' />
-                        {errors.confirmPassword?.type === 'required' && <p role="alert">Confirm password name is required</p>}
-                        
+                        <input type="text" name="email" {...register("email", {
+                        required: "Email name is required"
+                        })} placeholder='email' />
+                                       
                         <input type="telNo" {...register("mobile", {
                             required: "Mobile number is required.",
                             minLength: {
