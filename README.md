@@ -5,6 +5,7 @@
 <!-- для маршрутизации используем только react-router </br>
 1. не использовать redux </br> -->
 2. Используя библиотеку react query подключить api смотреть видео для query typescript и react-router.</br>
+=======
 
 
 ## Getting Started with Create React App
