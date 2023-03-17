@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const ListOfUsers = () => {
+export const UsersList = () => {
   return (
     <div>ListOfUsers</div>
   )

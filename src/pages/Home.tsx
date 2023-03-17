@@ -1,12 +1,12 @@
 import React from 'react';
 import {Form} from '../components/Form.jsx';
-import {ListOfUsers} from '../components/ListOfUsers'
+import {UsersList} from '../components/UsersList'
 
 const Home = () => {
   return (
     <>
     <Form/>
-    <ListOfUsers/>
+    <UsersList/>
     </>
     )
 }
