@@ -1,13 +1,15 @@
 # Task
-<ol>
-  <ul type="disk">
+<ol type="disk">
+  <li>
 1. добавить 2 страницы(домашняя-создание нового пользователя-форма)
 +здесь же список пользователей и страница 2(редактировать)при клике на пользователя попадаем на страницу редактирования пользовательских данных(переиспользуем этот же компонент-данные в инпутах для редактирования с кнопкой сохранить).</br>
 2.Сделать без api</br>
 3.@ts-ignore убираем ошибку тайпскрипт </br> 
 4. не использовать redux </br> 
 5. Используя библиотеку react query подключить api смотреть видео для query typescript и react-router.</br> 
+  </li>
 </o>
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
