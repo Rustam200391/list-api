@@ -8,7 +8,7 @@
   <li>Сделать без api</li>
   <li>@ts-ignore убираем ошибку тайпскрипт </li>
   <li>не использовать redux </li> 
-5. Используя библиотеку react query подключить api смотреть видео для query typescript и react-router.</br> 
+  <li>Используя библиотеку react query подключить api смотреть видео для query typescript и react-router.</li> 
 </o>
 
 ## Getting Started with Create React App
