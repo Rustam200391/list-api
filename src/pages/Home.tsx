@@ -2,7 +2,7 @@ import React from 'react';
 import {Form} from '../components/Form';
 import {UsersList} from '../components/UsersList'
 
-const Home = () => {
+export const Home = () => {
   return (
     <>
     <Form/>
@@ -10,5 +10,3 @@ const Home = () => {
     </>
     )
 }
-
-export default Home

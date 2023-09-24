@@ -5,7 +5,7 @@ export const Form = () => {
    
     return (
             <>
-                    <h2 >Form service</h2>
+                <h2 >Form service</h2>
                     <form id='form' className='flex flex-col' >
                         <input type="text"  placeholder='username' />
                         <input type="text" placeholder='surname' />
