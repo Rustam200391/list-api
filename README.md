@@ -10,7 +10,7 @@
   <li>не использовать redux </li> 
   <li>Используя библиотеку react query подключить api смотреть видео для query typescript и react-router.</li> 
 </o>
-<
+</
 
 ## Getting Started with Create React App
 
